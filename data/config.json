@@ -10,20 +10,20 @@
       "title": "Other Pages",
       "items": [
         {
-          "name": "Gaming",
-          "link": ""
+          "name": "Instagram",
+          "link": "https://www.instagram.com/purdysnarky/"
         },
         {
-          "name": "Music",
-          "link": ""
+          "name": "Twitter",
+          "link": "https://twitter.com/PurdySnarky"
         },
         {
-          "name": "Books",
-          "link": ""
+          "name": "Twitch",
+          "link": "https://www.twitch.tv/purdynerdy"
         },
         {
-          "name": "Thoughts",
-          "link": ""
+          "name": "Periscope",
+          "link": "https://www.periscope.tv/SnarkyCryptograms"
         }
       ]
     },

@@ -1,8 +1,6 @@
 $(document).ready(function () {
 
   var modal = document.getElementById('myModal');
-  var modalImg = document.getElementById("img01");
-  var captionText = document.getElementById("caption");
   var configURL = "config.json"
 
   fetch(configURL)
@@ -40,6 +38,10 @@ $(document).ready(function () {
 })
 
 function buildCatalog(data) {
+  var modal = document.getElementById('myModal');
+  var modalImg = document.getElementById("img01");
+  var captionText = document.getElementById("caption");
+
   // Iterate through the catalog and create entries for all the items per
   // category.
   catalog = data["catalog"]
@@ -55,17 +57,17 @@ function buildCatalog(data) {
         var categoryTemplateScript = Handlebars.compile(categoryTemplate, { noEscape: true })
         categoryHtml = categoryTemplateScript(categoryData)
         $("#listing").append(categoryHtml)
+      })
+      .then(function () {
+        // Add click event on all the images for preview.
+        var imgs = $(".card-img-top")
+        imgs.each(function () {
+          $(this).click(function () {
+            modal.style.display = "block"
+            modalImg.src = this.src
+            captionText.innerHTML = this.alt
+          })
+        })
       });
   }
-
-  // Add click event on all the images for preview.
-  var imgs = $(".card-img-top")
-  imgs.each(function () {
-    $(this).click(function () {
-      modal.style.display = "block"
-      modalImg.src = this.src
-      captionText.innerHTML = this.alt
-    })
-  })
-
 }

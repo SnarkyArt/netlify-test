@@ -4,3 +4,7 @@ install-tools:
 build: install-tools
 	peji page generate-site-data data/config.json
 	peji page generate-site data/config.json
+
+build-home: install-tools
+	peji page generate-site-data data/config-home.json
+	peji page generate-site data/config-home.json

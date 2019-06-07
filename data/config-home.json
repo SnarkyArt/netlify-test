@@ -4,8 +4,8 @@
   "title-lead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   "title-sublead": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
-  "primary-background": "grey",
-  "secondary-background": "#3761ba",
+  "primary-background": "white",
+  "secondary-background": "black",
   "info": [
     {
       "title": "Social",

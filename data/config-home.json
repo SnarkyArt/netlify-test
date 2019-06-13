@@ -5,7 +5,7 @@
   "title-sublead": "Find all my links below! Thanks for your support.",
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
   "primary-background": "white",
-  "secondary-background": "000000",
+  "secondary-background": "#000000",
   "info": [
     {
       "title": "Social",
@@ -13,7 +13,7 @@
         {
           "name": "Shop",
           "link": "https://shop.snarkyart.net",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop.jpg"
+          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop2.jpeg"
         },
         {
           "name": "Instagram",

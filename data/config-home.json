@@ -4,8 +4,8 @@
   "title-lead": "",
   "title-sublead": "Find all my links below! Thanks for your support.",
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
-  "primary-background": "black",
-  "secondary-background": "#ffffff",
+  "primary-background": "white",
+  "secondary-background": "#000000",
   "info": [
     {
       "title": "Social",

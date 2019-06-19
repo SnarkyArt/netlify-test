@@ -1,11 +1,11 @@
 {
   "siteType": "HOME",
   "title": "SnarkyArt",
-  "title-lead": "",
-  "title-sublead": "Find all my links below! Thanks for your support.",
+  "title-lead": "Find all my links below! Thanks for your support.",
+  "title-sublead": "",
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
   "primary-background": "white",
-  "secondary-background": "#000000",
+  "secondary-background": "#000",
   "info": [
     {
       "title": "Social",

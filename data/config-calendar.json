@@ -1,7 +1,7 @@
 {
     "siteType": "CALENDAR",
-    "title": "SnarkyArt Calendar",
-    "title-lead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit!",
+    "title": "SnarkyArt Schedule",
+    "title-lead": "Here is my streaming schedule. Please join me for some chill music and art creation.",
     "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
     "primary-background": "white",
     "secondary-background": "#000",

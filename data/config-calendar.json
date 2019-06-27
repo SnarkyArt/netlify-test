@@ -38,6 +38,14 @@
                 {
                     "name": "Home Page",
                     "link": "https://www.snarkyart.net"
+                },
+                {
+                    "name": "Shop",
+                    "link": "https://shop.snarkyart.net"
+                },
+                {
+                    "name": "Schedule",
+                    "link": "https://schedule.snarkyart.net"
                 }
             ]
         },

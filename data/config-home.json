@@ -7,7 +7,7 @@
   "primary-background": "white",
   "secondary-background": "#000",
   "on-air-id": "snarkycryptograms",
-  "info": [
+  "social": [
     {
       "name": "Shop",
       "link": "https://shop.snarkyart.net",
@@ -56,7 +56,52 @@
     {
       "name": "Brax.me",
       "link": "https://brax.me/home/snarkyart",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/brax.me.png"    
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/brax.me.png"
+    }
+  ],
+  "info": [
+    {
+      "title": "Social",
+      "items": [
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/purdysnarky/"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/PurdySnarky"
+        },
+        {
+          "name": "Twitch",
+          "link": "https://www.twitch.tv/purdynerdy"
+        },
+        {
+          "name": "Periscope",
+          "link": "https://www.periscope.tv/SnarkyCryptograms"
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "items": [
+        {
+          "name": "Home Page",
+          "link": "https://www.snarkyart.net"
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "items": [
+        {
+          "name": "Privacy",
+          "link": ""
+        },
+        {
+          "name": "Terms",
+          "link": ""
+        }
+      ]
     }
   ]
 }

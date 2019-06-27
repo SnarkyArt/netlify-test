@@ -6,249 +6,47 @@
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
   "primary-background": "white",
   "secondary-background": "#000",
+  "on-air-id": "snarkycryptograms",
   "info": [
     {
-      "title": "Social",
-      "items": [
-        {
-          "name": "Shop",
-          "link": "https://shop.snarkyart.net",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop2.jpeg"
-        },
-        {
-          "name": "Instagram",
-          "link": "https://www.instagram.com/purdysnarky/",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/instagram.png"
-        },
-        {
-          "name": "Twitter",
-          "link": "https://twitter.com/PurdySnarky",
-          "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Twitter_Logo_Blue.png"
-        },
-        {
-          "name": "Twitch",
-          "link": "https://www.twitch.tv/purdynerdy",
-          "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Combo_Purple_RGB.png"
-        },
-        {
-          "name": "Periscope",
-          "link": "https://www.periscope.tv/SnarkyCryptograms",
-          "image":"https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/periscope.png"
-        },
-        {
-          "name": "Discord Community",
-          "link": "https://discord.gg/922MEpP",
-          "image": "https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png"
-        },
-          {
-          "name": "Youtube",
-          "link": "https://www.youtube.com/channel/UCOyjjEo38hy_ubRV0QzDEgA",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/youtube_social_icon_red.png"
-        },
-        {
-          "name": "Gaming Twitch",
-          "link": "https://www.twitch.tv/vejables",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/gaming-logo.png"
-        } 
-      ]
+      "name": "Shop",
+      "link": "https://shop.snarkyart.net",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop2.jpeg"
     },
     {
-      "title": "Resources",
-      "items": [
-        {
-          "name": "Twitter",
-          "link": ""
-        },
-        {
-          "name": "Discord",
-          "link": ""
-        },
-        {
-          "name": "Twitch",
-          "link": ""
-        }
-      ]
+      "name": "Instagram",
+      "link": "https://www.instagram.com/purdysnarky/",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/instagram.png"
     },
     {
-      "title": "About",
-      "items": [
-        {
-          "name": "Privacy",
-          "link": ""
-        },
-        {
-          "name": "Terms",
-          "link": ""
-        }
-      ]
-    }
-  ],
-  "catalog": [
+      "name": "Twitter",
+      "link": "https://twitter.com/PurdySnarky",
+      "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Twitter_Logo_Blue.png"
+    },
     {
-      "id": "1",
-      "category": "doloremque",
-      "items": [
-        {
-          "id": "1",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/1.jpeg",
-          "title": "Look Deeper",
-          "description": "Watercolor - 15x20 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 300,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"PRPH7D5TPASA4\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "2",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/2.jpeg",
-          "title": "Confrontation of Vulnerability",
-          "description": "Acrylic - 11x14 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 150,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"JLZFDXALR5VVW\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "3",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/3.jpeg",
-          "title": "Unamused",
-          "description": "Acrylic - 5x7 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 50,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"SSEYT4F9WYTV6\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "4",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/4.jpeg",
-          "title": "Jellyfish",
-          "description": "Acrylic - 5x7 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 50,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"BN6EX67ALHQ3S\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "5",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/5.jpeg",
-          "title": "Watching",
-          "description": "Acrylic - 5x7 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 50,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"CQ532XFV638LQ\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "6",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/6.jpeg",
-          "title": "Strife with a kindred Spirit",
-          "description": "Acrylic - 9x12 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 100,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"JWB3BDFJDX2JW\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "7",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/7.jpeg",
-          "title": "Crowded Lonliness",
-          "description": "Acrylic - 11x14 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 250,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"C5JRMFAZZK6DE\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "8",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/8.jpeg",
-          "title": "Expansion into Twilight",
-          "description": "Acrylic - 16x20 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 350,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"QKKMV5VVESVRN\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "9",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/9.jpeg",
-          "title": "Night in Shining Armor",
-          "description": "Watercolor - 15x20 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 300,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"4KJW5GWTW5QSG\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "10",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/10.jpeg",
-          "title": "The Door",
-          "description": "Watercolor - 15x20 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 350,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"24PMYWR4FSAN8\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "11",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/11.jpeg",
-          "title": "The Beatles",
-          "description": "Watercolor - 18x24 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 500,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"9DT85V2MNC2JL\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "12",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/12.jpeg",
-          "title": "Alien Landscape",
-          "description": "Watercolor - 9x12 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 150,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"ZNVV645FDHCMN\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "13",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/13.jpeg",
-          "title": "Abstract eye postcard",
-          "description": "Watercolor - 4x6 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 10,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"YVE4UWBVJCCJU\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "14",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/14.jpeg",
-          "title": "Nature is watching",
-          "description": "Watercolor - 15x20 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 400,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"BM9K879USPQ2E\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "15",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/15.jpeg",
-          "title": "Into the Abyss",
-          "description": "Acrylic - 11x14 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 300,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"ZFA6W77EYWCYY\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        },
-        {
-          "id": "16",
-          "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/pics/16.jpeg",
-          "title": "Infinite exquisite stasis",
-          "description": "Watercolor - 15x20 inches",
-          "publishDate": "29th May, 2019",
-          "available": true,
-          "price": 350,
-          "button": "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\" target=\"_top\"><input name=\"cmd\" type=\"hidden\" value=\"_s-xclick\"/><input name=\"hosted_button_id\" type=\"hidden\" value=\"GFFUF2D2DRTKW\"/><input alt=\"PayPal - The safer, easier way to pay online!\" border=\"0\" name=\"submit\" src=\"https://www.paypalobjects.com/en_US/i/btn/btn_buynow_LG.gif\" type=\"image\"/><img alt=\"\" border=\"0\" height=\"1\" src=\"https://www.paypalobjects.com/en_US/i/scr/pixel.gif\" width=\"1\"/></form>"
-        }
-      ]
+      "name": "Twitch",
+      "link": "https://www.twitch.tv/purdynerdy",
+      "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Combo_Purple_RGB.png"
+    },
+    {
+      "name": "Periscope",
+      "link": "https://www.periscope.tv/SnarkyCryptograms",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/periscope.png"
+    },
+    {
+      "name": "Discord Community",
+      "link": "https://discord.gg/922MEpP",
+      "image": "https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png"
+    },
+    {
+      "name": "Youtube",
+      "link": "https://www.youtube.com/channel/UCOyjjEo38hy_ubRV0QzDEgA",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/youtube_social_icon_red.png"
+    },
+    {
+      "name": "Gaming Twitch",
+      "link": "https://www.twitch.tv/vejables",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/gaming-logo.png"
     }
   ]
 }

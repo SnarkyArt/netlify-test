@@ -14,6 +14,11 @@
       "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop2.jpeg"
     },
     {
+      "name": "Red Bubble",
+      "link": "https://www.redbubble.com/people/SnarkyArtZ",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/redbubble.png"
+    },
+    {
       "name": "Instagram",
       "link": "https://www.instagram.com/purdysnarky/",
       "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/instagram.png"
@@ -47,6 +52,11 @@
       "name": "Gaming Twitch",
       "link": "https://www.twitch.tv/vejables",
       "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/gaming-logo.png"
+    },
+    {
+      "name": "Brax.me",
+      "link": "https://brax.me/home/snarkyart",
+      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/brax.me.png"    
     }
   ]
 }

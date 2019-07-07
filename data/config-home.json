@@ -6,6 +6,8 @@
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
   "primary-background": "white",
   "secondary-background": "#000",
+  "textColor": "black",
+  "footerTextHeadColor": "black",
   "on-air-id": "",
   "social": [
     {

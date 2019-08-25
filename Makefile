@@ -1,5 +1,5 @@
 install-tools:
-	pip install git+https://github.com/darkowlzz/peji.git
+	pip install git+https://github.com/darkowlzz/peji.git@v0.0.2
 
 build-shop: install-tools
 	peji page generate-site-data data/config-shop.json

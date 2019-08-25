@@ -9,58 +9,71 @@
   "textColor": "black",
   "footerTextHeadColor": "black",
   "on-air-id": "",
-  "social": [
-    {
-      "name": "Shop",
-      "link": "https://shop.snarkyart.net",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop2.jpeg"
-    },
-    {
-      "name": "Red Bubble",
-      "link": "https://www.redbubble.com/people/SnarkyArtZ",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/redbubble.png"
-    },
-    {
-      "name": "Instagram",
-      "link": "https://www.instagram.com/purdysnarky/",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/instagram.png"
-    },
-    {
-      "name": "Twitter",
-      "link": "https://twitter.com/PurdySnarky",
-      "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Twitter_Logo_Blue.png"
-    },
-    {
-      "name": "Twitch",
-      "link": "https://www.twitch.tv/purdynerdy",
-      "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Combo_Purple_RGB.png"
-    },
-    {
-      "name": "Periscope",
-      "link": "https://www.periscope.tv/SnarkyCryptograms",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/periscope.png"
-    },
-    {
-      "name": "Discord Community",
-      "link": "https://discord.gg/922MEpP",
-      "image": "https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png"
-    },
-    {
-      "name": "Youtube",
-      "link": "https://www.youtube.com/channel/UCOyjjEo38hy_ubRV0QzDEgA",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/youtube_social_icon_red.png"
-    },
-    {
-      "name": "Gaming Twitch",
-      "link": "https://www.twitch.tv/vejables",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/gaming-logo.png"
-    },
-    {
-      "name": "Brax",
-      "link": "https://brax.me/home/snarkyart",
-      "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/brax.me.png"
-    }
-  ],
+  "personal": {
+    "title": "Personal Sites",
+    "items": [
+      {
+        "name": "Shop",
+        "link": "https://shop.snarkyart.net",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkyshop2.jpeg"
+      },
+      {
+        "name": "Calendar",
+        "link": "https://schedule.snarkyart.net",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/snarkycalendar.png"
+      }
+    ]
+  },
+  "social": {
+    "title": "Socials",
+    "items": [
+      {
+        "name": "Red Bubble",
+        "link": "https://www.redbubble.com/people/SnarkyArtZ",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/redbubble.png"
+      },
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/purdysnarky/",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/instagram.png"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/PurdySnarky",
+        "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Twitter_Logo_Blue.png"
+      },
+      {
+        "name": "Twitch",
+        "link": "https://www.twitch.tv/purdynerdy",
+        "image": "https://raw.githubusercontent.com/darkowlzz/netlify-test/data/static/Combo_Purple_RGB.png"
+      },
+      {
+        "name": "Periscope",
+        "link": "https://www.periscope.tv/SnarkyCryptograms",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/periscope.png"
+      },
+      {
+        "name": "Discord Community",
+        "link": "https://discord.gg/922MEpP",
+        "image": "https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png"
+      },
+      {
+        "name": "Youtube",
+        "link": "https://www.youtube.com/channel/UCOyjjEo38hy_ubRV0QzDEgA",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/youtube_social_icon_red.png"
+      },
+      {
+        "name": "Gaming Twitch",
+        "link": "https://www.twitch.tv/vejables",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/gaming-logo.png"
+      },
+      {
+        "name": "Brax",
+        "link": "https://brax.me/home/snarkyart",
+        "image": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/brax.me.png"
+      }
+    ]
+  },
   "info": [
     {
       "title": "Social",

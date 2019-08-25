@@ -48,6 +48,10 @@
                 {
                     "name": "Schedule",
                     "link": "https://schedule.snarkyart.net"
+                },
+                {
+                    "name": "Status",
+                    "link": "https://status.snarkyart.net/"
                 }
             ]
         },

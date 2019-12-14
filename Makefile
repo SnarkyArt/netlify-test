@@ -1,5 +1,5 @@
 install-tools:
-	pip install git+https://github.com/darkowlzz/peji.git
+	pip install git+https://github.com/darkowlzz/peji.git@v0.0.4
 
 build-shop: install-tools
 	curl -Lo data.json https://github.com/purdynerdy/peji-data-example/releases/download/v0.5.0/data.json

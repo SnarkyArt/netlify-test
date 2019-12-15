@@ -3,7 +3,7 @@
     "title": "SnarkyArt Schedule",
     "title-lead": "Here is my streaming schedule. Please join me for some chill music and art creation.",
     "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
-    "primary-background": "white",
+    "primary-background": "#8f2f63",
     "secondary-background": "#000",
     "textColor": "black",
     "footerTextHeadColor": "black",

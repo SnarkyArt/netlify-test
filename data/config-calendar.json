@@ -3,10 +3,10 @@
     "title": "SnarkyArt Schedule",
     "title-lead": "Here is my streaming schedule. Please join me for some chill music and art creation.",
     "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
-    "primary-background": "#8f2f63",
+    "primary-background": "black",
     "secondary-background": "#000",
-    "textColor": "black",
-    "footerTextHeadColor": "black",
+    "textColor": "white",
+    "footerTextHeadColor": "#6c757d",
     "calendar": {
         "code": "",
         "id": "snarkycryptograms@gmail.com",

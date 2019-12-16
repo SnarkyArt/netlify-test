@@ -4,10 +4,10 @@
   "title-lead": "Find all my links below! Thanks for your support.",
   "title-sublead": "",
   "title-logo": "https://raw.githubusercontent.com/purdynerdy/artpics/master/logo/logo.png",
-  "primary-background": "#8f2f63",
+  "primary-background": "black",
   "secondary-background": "#000",
-  "textColor": "black",
-  "footerTextHeadColor": "black",
+  "textColor": "white",
+  "footerTextHeadColor": "#6c757d",
   "on-air-id": "",
   "personal": {
     "title": "Personal Sites",
